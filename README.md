@@ -1,7 +1,9 @@
 # Test app for a candidate to .NET dev position
 
 Create a new branch out of `master` <br>
-Do not create pull requests to master branch
+Do not create pull requests to master branch <br>
+_or_ <br>
+Create a fork of this project, make and commit changes and send us the url to the fork
 
 ## Perequisites
 - Visual Studio 2002 _or_ VS Code _or_ Jetbrains Rider
