@@ -1,6 +1,11 @@
 # Test app for a candidate to .NET dev position
 
-Create a new branch out of **master**
+Create a new branch out of `master` <br>
+Do not create pull requests to master branch
+
+## Perequisites
+- Visual Studio 2002 _or_ VS Code _or_ Jetbrains Rider
+- .NET 8
 
 ## List of tasks:
 1. **Repository**: add an employee to the list
