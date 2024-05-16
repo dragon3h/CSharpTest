@@ -1,4 +1,6 @@
-﻿namespace CSharpTest.Repository;
+﻿using CSharpTest.Domain.Model;
+
+namespace CSharpTest.Infrastructure.Repository;
 
 public class EmployeeRepo
 {

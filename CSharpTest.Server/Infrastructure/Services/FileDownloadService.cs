@@ -1,4 +1,4 @@
-﻿namespace CSharpTest.Services;
+﻿namespace CSharpTest.Infrastructure.Services;
 
 public class FileDownloadService
 {

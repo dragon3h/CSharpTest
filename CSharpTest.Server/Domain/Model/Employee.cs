@@ -1,8 +1,7 @@
-﻿namespace CSharpTest.Model;
+﻿namespace CSharpTest.Domain.Model;
 
-public class Employee
+public class Employee : BaseModel
 {
-    public int Id { get; set; }
     public string Name { get; set; }
     public string Department { get; set; }
     public int Salary { get; set; }
